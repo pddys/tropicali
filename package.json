@@ -1,0 +1,22 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddys/tropicali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pddys/tropicali/issues"
+  },
+  "homepage": "https://github.com/pddys/tropicali#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
